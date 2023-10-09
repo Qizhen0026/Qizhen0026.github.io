@@ -20,7 +20,7 @@ author: Qizhen Xie
 ###############################################
 
 navbar-links:
-  CV: "CV"
+  CV: "qxie_cv_summer23.pdf"
   Profiles:
     - Brown Classics: "https://www.brown.edu/academics/classics/people/qizhen-xie"
     - Brown History: "https://history.brown.edu/people/qizhen-xie"
@@ -51,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "qizhen_xie@brown.com"
-  linkedin: qizhen-xie-645273115
+  linkedin: "http://www.linkedin.com/in/qizhen-xie-645243115"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

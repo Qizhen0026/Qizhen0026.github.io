@@ -4,13 +4,6 @@ title: Hello!
 subtitle: I am Qizhen Xie. Welcome to my website.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Qizhen Xie 谢奇臻
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My main interest lies in the Hellenistic world, particularly in the development of administration and bureaucracy from early to mid Hellenistic period (cir. 300-150 BCE). At Brown,I further explore questions concerning how the romance of “spear-won land (δορίκτητος χώρα)” was grounded in and realized through fiscality and day-to-day management.
